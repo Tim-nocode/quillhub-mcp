@@ -3,8 +3,8 @@
   "name": "ai.quillhub/mcp",
   "title": "QuillHub",
   "description": "Meeting transcripts for AI agents: search calls, read who said what, transcribe files and links.",
-  "version": "1.0.0",
-  "websiteUrl": "https://quillhub.ai/en/docs/mcp",
+  "version": "1.0.1",
+  "websiteUrl": "https://quillhub.ai/en/help/mcp-claude-cursor",
   "repository": {
     "url": "https://github.com/Tim-nocode/quillhub-mcp",
     "source": "github"
@@ -13,7 +13,9 @@
     {
       "src": "https://raw.githubusercontent.com/Tim-nocode/quillhub-mcp/main/logo.png",
       "mimeType": "image/png",
-      "sizes": ["512x512"]
+      "sizes": [
+        "512x512"
+      ]
     }
   ],
   "remotes": [

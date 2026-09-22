@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://quillhub.ai/en/help/mcp-claude-cursor?utm_source=github&utm_medium=directory&utm_campaign=mcp-showcase">Setup guide</a> ·
   <a href="https://quillhub.ai/en/docs/mcp?utm_source=github&utm_medium=directory&utm_campaign=mcp-showcase">Docs</a> ·
   <a href="https://quillhub.ai/en?utm_source=github&utm_medium=directory&utm_campaign=mcp-showcase">quillhub.ai</a> ·
   <a href="https://quillhub.ai/en/desktop?utm_source=github&utm_medium=directory&utm_campaign=mcp-showcase">Desktop app</a>
@@ -28,6 +29,8 @@
 The MCP server gives your AI assistant direct access to that archive. Ask Claude "what did we agree with the client last Tuesday", "what has Anna said about pricing this month", or "transcribe this file and draft the follow-up", and it calls the right tools itself.
 
 ## Quick start
+
+Step-by-step guide with screenshots: [QuillHub + Claude/Cursor via MCP](https://quillhub.ai/en/help/mcp-claude-cursor?utm_source=github&utm_medium=directory&utm_campaign=mcp-showcase).
 
 ### Claude Desktop, Cursor, VS Code and other OAuth-capable clients
 
