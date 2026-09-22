@@ -118,6 +118,10 @@ Write `Authorization:Bearer ...` with no space after the colon: some `mcp-remote
 - Recordings are encrypted at rest and in transit, never used to train models, and can be deleted at any time.
 - Don't commit real API keys into config files. Rotate keys in the Developers dashboard.
 
+## Kiro power
+
+This repository is also a Kiro power: `plugin.json`, `mcp.json` and `POWER.md` sit at the root.
+
 ## Also available
 
 - REST API with webhooks: [quillhub.ai/en/docs](https://quillhub.ai/en/docs?utm_source=github&utm_medium=directory&utm_campaign=mcp-showcase)
@@ -126,6 +130,8 @@ Write `Authorization:Bearer ...` with no space after the colon: some `mcp-remote
 ## Support
 
 Open an issue in this repository or write to tim.nocode@gmail.com.
+
+Privacy policy: [quillhub.ai/en/legal/privacy](https://quillhub.ai/en/legal/privacy)
 
 QuillHub is built by Axevia Labs LLC.
 
